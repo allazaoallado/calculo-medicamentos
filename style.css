@@ -1,0 +1,54 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 160%;
+    display: inline-block;
+
+    
+}
+
+main{
+    background-color: red;
+    min-width:50px;
+    padding: 10px;
+
+
+    border-style: solid;
+    border-radius: 5px;
+
+}
+
+#calculo p {
+    display: inline-block;
+
+}
+
+#calculo input{
+    width: 8%;
+    height: 30px;
+    font-size:80%;
+}
+
+
+#botoes{
+
+    margin: auto;
+    width: 265px;
+    padding: 10px;
+}
+ #botoes button{
+    display: inline-block;
+    font-size: 23px;
+    font-weight: bolder;
+
+}
+
+#calcular{
+    margin-right: 10px;
+}
+
+
+#resposta{
+    padding: 10px;
+    padding-left: 0;
+    font-size: 28px;
+}
