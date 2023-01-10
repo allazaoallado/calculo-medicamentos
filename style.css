@@ -10,8 +10,6 @@ main{
     background-color: red;
     min-width:50px;
     padding: 10px;
-
-
     border-style: solid;
     border-radius: 5px;
 
@@ -23,7 +21,7 @@ main{
 }
 
 #calculo input{
-    width: 8%;
+    width: 35px;
     height: 30px;
     font-size:80%;
 }
@@ -37,7 +35,7 @@ main{
 }
  #botoes button{
     display: inline-block;
-    font-size: 23px;
+    font-size: 18px;
     font-weight: bolder;
 
 }
